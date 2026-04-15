@@ -65,6 +65,7 @@ Useful backend commands:
 cd backend
 go test ./...
 go build ./cmd/api
+go test ./tests/integration -v
 ```
 
 ## Backend Configuration
@@ -142,6 +143,14 @@ Current state of the repository:
 - backend is ready and runs separately
 - frontend still uses mock data
 - if you want, the next step is switching Flutter repositories/services from `MockApiService` to real HTTP requests
+
+## Backend Tests
+
+Backend integration tests are stored in:
+
+- `backend/tests/integration`
+
+They use a temporary SQLite database and verify that records are actually created, updated, read and cancelled through the service layer and HTTP API.
 
 ## Additional Docs
 
