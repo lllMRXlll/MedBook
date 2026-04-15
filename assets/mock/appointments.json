@@ -1,0 +1,46 @@
+[
+  {
+    "id": "appointment-1",
+    "doctorId": "doctor-2",
+    "userId": "user-1",
+    "doctorName": "Илья Орлов",
+    "specializationName": "Кардиолог",
+    "scheduledAt": "2026-04-18T14:30:00.000+03:00",
+    "status": "scheduled",
+    "location": "Клиника MedBook, корпус B",
+    "price": 3500
+  },
+  {
+    "id": "appointment-2",
+    "doctorId": "doctor-1",
+    "userId": "user-1",
+    "doctorName": "Мария Кузнецова",
+    "specializationName": "Терапевт",
+    "scheduledAt": "2026-03-10T10:00:00.000+03:00",
+    "status": "scheduled",
+    "location": "Клиника MedBook, корпус А",
+    "price": 2800
+  },
+  {
+    "id": "appointment-3",
+    "doctorId": "doctor-4",
+    "userId": "user-1",
+    "doctorName": "Алина Соколова",
+    "specializationName": "Дерматолог",
+    "scheduledAt": "2026-04-12T16:00:00.000+03:00",
+    "status": "cancelled",
+    "location": "Клиника MedBook, корпус C",
+    "price": 2900
+  },
+  {
+    "id": "appointment-4",
+    "doctorId": "doctor-1",
+    "userId": "user-2",
+    "doctorName": "Мария Кузнецова",
+    "specializationName": "Терапевт",
+    "scheduledAt": "2026-04-16T10:00:00.000+03:00",
+    "status": "scheduled",
+    "location": "Клиника MedBook, корпус А",
+    "price": 2800
+  }
+]

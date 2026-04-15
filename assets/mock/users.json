@@ -1,0 +1,20 @@
+[
+  {
+    "id": "user-1",
+    "fullName": "Анна Смирнова",
+    "email": "anna@example.com",
+    "phone": "+79991234567",
+    "password": "password123",
+    "birthDate": "1993-05-14T00:00:00.000",
+    "city": "Москва"
+  },
+  {
+    "id": "user-2",
+    "fullName": "Игорь Павлов",
+    "email": "igor@example.com",
+    "phone": "+79997654321",
+    "password": "password123",
+    "birthDate": "1989-09-21T00:00:00.000",
+    "city": "Москва"
+  }
+]

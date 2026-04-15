@@ -1,0 +1,87 @@
+[
+  {
+    "id": "doctor-1",
+    "name": "Мария Кузнецова",
+    "specializationId": "therapy",
+    "description": "Ведет амбулаторный прием взрослых пациентов, помогает с диагностикой и профилактикой хронических состояний.",
+    "experienceYears": 11,
+    "rating": 4.9,
+    "price": 2800,
+    "location": "Клиника MedBook, корпус А",
+    "featured": true,
+    "schedule": {
+      "workDays": [1, 2, 4, 5],
+      "startHour": 9,
+      "endHour": 18,
+      "slotMinutes": 30
+    }
+  },
+  {
+    "id": "doctor-2",
+    "name": "Илья Орлов",
+    "specializationId": "cardio",
+    "description": "Специализируется на диагностике сердечно-сосудистых заболеваний, интерпретации ЭКГ и подборе терапии.",
+    "experienceYears": 14,
+    "rating": 4.8,
+    "price": 3500,
+    "location": "Клиника MedBook, корпус B",
+    "featured": true,
+    "schedule": {
+      "workDays": [1, 3, 4, 6],
+      "startHour": 10,
+      "endHour": 19,
+      "slotMinutes": 30
+    }
+  },
+  {
+    "id": "doctor-3",
+    "name": "Светлана Петрова",
+    "specializationId": "neuro",
+    "description": "Работает с головными болями, нарушениями сна, последствиями стресса и хронической усталостью.",
+    "experienceYears": 9,
+    "rating": 4.7,
+    "price": 3200,
+    "location": "Клиника MedBook, корпус А",
+    "featured": false,
+    "schedule": {
+      "workDays": [2, 3, 5, 6],
+      "startHour": 8,
+      "endHour": 16,
+      "slotMinutes": 40
+    }
+  },
+  {
+    "id": "doctor-4",
+    "name": "Алина Соколова",
+    "specializationId": "derma",
+    "description": "Консультирует по вопросам кожи, волос и ногтей, ведет пациентов с акне и дерматитами.",
+    "experienceYears": 7,
+    "rating": 4.9,
+    "price": 2900,
+    "location": "Клиника MedBook, корпус C",
+    "featured": true,
+    "schedule": {
+      "workDays": [1, 2, 3, 5],
+      "startHour": 11,
+      "endHour": 20,
+      "slotMinutes": 30
+    }
+  },
+  {
+    "id": "doctor-5",
+    "name": "Елена Зайцева",
+    "specializationId": "pediatrics",
+    "description": "Наблюдает детей с первых дней жизни, ведет профилактические осмотры и вакцинацию.",
+    "experienceYears": 12,
+    "rating": 4.8,
+    "price": 3000,
+    "location": "Клиника MedBook, детское отделение",
+    "featured": false,
+    "schedule": {
+      "workDays": [1, 2, 3, 4, 5],
+      "startHour": 9,
+      "endHour": 17,
+      "slotMinutes": 20
+    }
+  }
+]

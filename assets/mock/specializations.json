@@ -1,0 +1,7 @@
+[
+  { "id": "therapy", "title": "Терапевт" },
+  { "id": "cardio", "title": "Кардиолог" },
+  { "id": "neuro", "title": "Невролог" },
+  { "id": "derma", "title": "Дерматолог" },
+  { "id": "pediatrics", "title": "Педиатр" }
+]
